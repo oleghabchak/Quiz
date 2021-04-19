@@ -23,7 +23,7 @@ let questions =[
       question:'What are the longest rivers in Ukraine ?',
       choice1: 'Dniester',
       choice2: 'Southern Bug',
-      choice3: 'Dnieper',
+      choice3: 'Dnipro',
       choice4: 'Desna',
       answer: 3,
    }, {
